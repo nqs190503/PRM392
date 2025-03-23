@@ -10,8 +10,9 @@
     android:background="@color/white"
     android:gravity="center">
 
-    <TextView
+    <ImageView
         android:layout_width="match_parent"
+        android:id="@+id/imgQR"
         android:layout_height="wrap_content"
         android:text="@string/your_order_verification"
         android:gravity="center"

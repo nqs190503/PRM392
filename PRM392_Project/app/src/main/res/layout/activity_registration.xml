@@ -124,7 +124,7 @@
                             android:inputType="textPassword"
                             android:textColorHint="@color/hintColor"
                             android:textColor="@color/black"
-                            android:hint="@string/conform_password" />
+                            android:hint="Confirm Password" />
                     </com.google.android.material.textfield.TextInputLayout>
 
                     <Button
